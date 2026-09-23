@@ -10,7 +10,9 @@ This repository showcases the algorithmic components developed for large-scale u
 *Note: Proprietary K-Medoids clustering algorithms, monolithic datasets, and specific local search capacity-repair loops are omitted due to academic publishing confidentiality.*
 
 ## Tech Stack
-- Python 3.x
-- `numpy`
+- **Core Language:** Python 3.x
+- **Software Architecture:** Advanced OOP, `dataclasses`, Strict Type Hinting (`typing`)
+- **Numerical Processing:** `numpy` (Optimized matrix operations)
+- **Algorithmic Utilities:** `itertools`, `math`
 
 Copyright (c) 2026 Mohammad Hamed Mahdavi. All Rights Reserved.
